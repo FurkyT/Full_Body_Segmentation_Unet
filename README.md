@@ -8,6 +8,8 @@ Project now uses a full body human dataset from kaggle,
 dataset link: https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-mads-dataset
 
 @InProceedings{Full_Body_Segmentation_Unet,
-author="Furkan TÜRKAY 'https://github.com/FurkyT' ,Ahmet NARMANLI 'https://github.com/narmanliahmet' ",
+author="Furkan TÜRKAY 'https://github.com/FurkyT' ,
+Ahmet NARMANLI 'https://github.com/narmanliahmet' ,
+Emrah Doğuer 'https://github.com/Emrhdgr'",
 title="Full Body Human Segmentation With Unet",
 year="2022"}
